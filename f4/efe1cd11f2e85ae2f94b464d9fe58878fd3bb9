@@ -1,0 +1,23 @@
+integration-tests/http/offer/store/store-offers.spec.ts
+  s_dea4269cfaa29f::t_a1c126773c7762 370-422
+packages/core/src/api/store/offers/helpers.ts
+  s_dea4269cfaa29f::t_71810a0f8f1e51 21,264,266-274,276,286-292,308-314,316,318
+packages/core/src/api/store/offers/query-config.ts
+  s_dea4269cfaa29f::t_b5ba9aecca377b 40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f4efe1cd11f2e85ae2f94b464d9fe58878fd3bb9",
+  "prompts": {},
+  "sessions": {
+    "s_dea4269cfaa29f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "037976b7-fe2b-485f-b966-117fd4bddbf9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ricardo Sat <rsat89@gmail.com>"
+    }
+  }
+}
